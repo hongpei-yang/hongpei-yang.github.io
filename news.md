@@ -4,9 +4,12 @@ title: News
 permalink: /news
 ---
 
-# News
+## News
 
-- 2025 — …
-- 2024 — …
+### - In 2025 — …
+**7–8 Nov. 2025** Invited to serve as session chair and present at Fudan University’s inaugural N-S PhD Academic Forum (Department of Atmospheric and Oceanic Sciences); awarded _First Prize_ for Oral Presentation.
 
-（在这里添加你的最新动态）
+
+### - Before 2025 — …
+
+
