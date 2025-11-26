@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Hi, I'm Hongpei Yang."
-email: 'jami0821@gmail.com'
+email: 'yanghp731@gmail.com'
 description: "I'm a Ph.D. Candidate from Sun Yat-sen University and a young explorer to the changing world."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hongpei-yang.github.io" # the base hostname & protocol for your site, e.g. https://example.com
@@ -100,6 +100,8 @@ enable_contact: false
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/publications', text: 'Publications' }
-  - { url: '/news', text: 'News' }
+  - { url: "/", text: "Home" }
+  - { url: "/about", text: "About Me" }
+  - { url: "/publications", text: "Publications" }
+  - { url: "/news", text: "News" }
+  - { url: "/resources", text: "Resources" }
