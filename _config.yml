@@ -18,9 +18,10 @@ email: 'yanghp731@gmail.com'
 description: "I'm a Ph.D. Candidate from Sun Yat-sen University and<br> a young explorer to the changing world."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hongpei-yang.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-#ResearchGate_username: #'hongpei-yang'
-#Github_username: #'hongpei-yang'
-#LinkedIn_username: #'hongpei-yang'
+researchgate_username: 'Hongpei-Yang'
+googlescholar_username: 'citations?user=ZUU0SLsAAAAJ&hl=en'
+linkedin_username: 'hongpei-yang-7b3452285'
+orcid_usernae: '0000-0002-8156-008X'
 
 # Build settings
 markdown: kramdown
