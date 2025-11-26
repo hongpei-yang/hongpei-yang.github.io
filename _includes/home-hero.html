@@ -1,0 +1,77 @@
+<style>
+/* 按钮容器水平排列 */
+.hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px; /* 按钮间距 */
+}
+
+/* 图标按钮样式 */
+.hero-buttons a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  color: #fff;          /* 图标颜色 */
+  background-color: #007bff; /* 按钮背景色，可改 */
+  border-radius: 50%;   /* 圆形按钮 */
+  text-decoration: none;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+/* 悬停动画 */
+.hero-buttons a:hover {
+  transform: scale(1.1);
+  background-color: #0056b3;
+}
+
+/* 悬停显示文字提示 */
+.hero-buttons a span {
+  position: absolute;
+  bottom: -25px; /* 文本在按钮下方 */
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0,0,0,0.75);
+  color: #fff;
+  padding: 3px 6px;
+  border-radius: 4px;
+  font-size: 12px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.hero-buttons a:hover span {
+  opacity: 1;
+}
+</style>
+
+<div class="hero-buttons">
+  {% if site.researchgate_username != '' %}
+    <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
+      <i class="fab fa-researchgate"></i>
+      <span>ResearchGate</span>
+    </a>
+  {% endif %}
+  {% if site.googlescholar_username != '' %}
+    <a href="https://scholar.google.com/{{ site.googlescholar_username }}">
+      <i class="fab fa-google"></i>
+      <span>Google Scholar</span>
+    </a>
+  {% endif %}
+  {% if site.linkedin_username != '' %}
+    <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+      <i class="fab fa-linkedin"></i>
+      <span>LinkedIn</span>
+    </a>
+  {% endif %}
+  {% if site.orcid_username != '' %}
+    <a href="https://orcid.org/{{ site.orcid_username }}">
+      <i class="fab fa-orcid"></i>
+      <span>ORCID</span>
+    </a>
+  {% endif %}
+</div>
