@@ -18,9 +18,9 @@ email: 'jami0821@gmail.com'
 description: "I'm a Ph.D. Candidate from Sun Yat-sen University and a young explorer to the changing world."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hongpei-yang.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: #'hongpei-yang'
-github_username: #'hongpei-yang'
-medium_username: #'hongpei-yang'
+ResearchGate_username: #'hongpei-yang'
+Github_username: 'hongpei-yang'
+LinkedIn_username: #'hongpei-yang'
 
 # Build settings
 markdown: kramdown
@@ -92,14 +92,14 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+footer_text: '© 2025 Hongpei Yang'
+admin_name: 'Hongpei Yang'
+google_analytics: "" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'Publications' }
-  - { url: '/about', text: 'News' }
+  - { url: '/publications', text: 'Publications' }
+  - { url: '/news', text: 'News' }
