@@ -29,19 +29,23 @@
           <div class="hero-buttons">
 
             {% if site.googlescholar_username != '' %}
-              <a href="https://scholar.google.com/{{ site.googlescholar_username }}" class="btn btn-default btn-lg">
+              <a href="https://scholar.google.com/{{ site.googlescholar_username }}" class="btn btn-default btn-lg"
+                target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-google-scholar"></i>GoogleScholar</button></a>
             {% endif %}
             {% if site.orcid_username != '' %}
-              <a href="https://orcid.org/{{ site.orcid_username }}" class="btn btn-default btn-lg">
+              <a href="https://orcid.org/{{ site.orcid_username }}" class="btn btn-default btn-lg"
+                target="_blank" rel="noopener noreferrer"> 
                 <i class="fa-brands fa-orcid"></i>Orcid</button></a>
             {% endif %}
             {% if site.researchgate_username != '' %}
-              <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" class="btn btn-default btn-lg">
+              <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" class="btn btn-default btn-lg"
+                target="_blank" rel="noopener noreferrer" >
                 <i class="fa-brands fa-researchgate"></i> ResearchGate</button></a>
             {% endif %}
             {% if site.linkedin_username != '' %}
-              <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="btn btn-default btn-lg">
+              <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="btn btn-default btn-lg"
+                target="_blank" rel="noopener noreferrer">
                 <i class="fa-brands fa-linkedin"></i>LinkedIn</button></a>
             {% endif %}
                      
