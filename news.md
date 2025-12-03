@@ -14,9 +14,11 @@ sidebar:
 <small>
 **17 Nov. 2025**&nbsp;&nbsp;Invited to share experience on the NSFC PhD Grant application at the National Graduate Forum on Atmospheric Sciences at SYSU, Zhuhai.<br>
 **7–8 Nov. 2025**&nbsp;&nbsp;Invited to serve as `session chair` and present at Fudan University’s 1st N-S PhD Academic Forum (Department of Atmospheric and Oceanic Sciences); awarded `First Prize` for Oral Presentation.<br>
-**14 Oct. 2025**&nbsp;&nbsp;Participated in a group seminar on waves and bores with Prof. <a href="https://as.nju.edu.cn/c4/55/c11341a771157/page.htm" target="_blank">Fu Hao</a> from Nanjing University.<br>
+**14 Oct. 2025**&nbsp;&nbsp;Participated in a group seminar on waves and bores with Prof. <a href="https://as.nju.edu.cn/c4/55/c11341a771157/page.htm" target="_blank">Hao Fu</a> from Nanjing University.<br>
+**26 Oct. 2025**&nbsp;&nbsp;Du Group team building on Qi’ao Island, Zhuhai.
 **08 Oct. 2025**&nbsp;&nbsp;Awarded `President Scholarship`, see <a href="https://atmos.sysu.edu.cn/article/4383" target="_blank">post</a>.<br>
 **21 Sept. 2025**&nbsp;&nbsp;Invited to attend the 5th New Cornerstone 50² Forum at SUSTech, Shenzhen.<br>
+**20 Sept. 2025**&nbsp;&nbsp;Du Group Semester Report and Teachers' Day Celebration for Prof. <a href="https://atmos.sysu.edu.cn/teacher/364" target="_blank">Yu Du</a>.
 **18 Sept. 2025**&nbsp;&nbsp;Awarded `National Scholarship` for PhD students, see <a href="https://atmos.sysu.edu.cn/article/4372" target="_blank">post</a>.<br>
 **21–23 Aug. 2025**&nbsp;&nbsp;Participated in the 7th National Symposium on Mesoscale Meteorology held in Datong, Shanxi and presented an oral presentation about orographic CI, winning the `Excellent Oral Presentation Award`.<br>
 **12 Aug. 2025**&nbsp;&nbsp;Subscribers of our Wechat Official Account _Weather Watch_ reached 10k!<br>
