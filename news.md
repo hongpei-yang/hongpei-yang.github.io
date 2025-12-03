@@ -10,10 +10,10 @@ sidebar:
 ## News
 
 ### - In 2025 
-**7–8 Nov. 2025**  Invited to serve as `session chair` and present at Fudan University’s 1st N-S PhD Academic Forum (Department of Atmospheric and Oceanic Sciences); awarded `First Prize` for Oral Presentation.
-{: .small}
-09/17  Our group held a **mid-year review meeting** with team activities
-{: .small}
+<small>**17 Nov. 2025**  Invited to share experience on the NSFC PhD Grant application at the National Graduate Forum on Atmospheric Sciences at Sun Yat sen University.{/small}
+<small>**7–8 Nov. 2025**  Invited to serve as `session chair` and present at Fudan University’s 1st N-S PhD Academic Forum (Department of Atmospheric and Oceanic Sciences); awarded `First Prize` for Oral Presentation.{/small}
+
+
 
 ### - Big News Before 2025 
 
