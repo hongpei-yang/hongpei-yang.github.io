@@ -8,6 +8,7 @@ sidebar:
 ---
 
 ## News
+<br>
 #### Updated: 3 Dec. 2025
 ### - In 2025 
 <small>
@@ -21,10 +22,10 @@ sidebar:
 **12 Aug. 2025**&nbsp;&nbsp;Subscribers of our Wechat Official Account _Weather Watch_ reached 10k!<br>
 **20–25 Jul. 2025**&nbsp;&nbsp;Participated in the Atmospheric Coovection Summer School at NJU, Nanjing.<br>
 **23–27 Jun. 2025**&nbsp;&nbsp;Participated in the 21st Conference on Mesoscale Processes held in Boise (USA) and presented an oral presentation about preline CI events.<br>
-**23 Jun. 2025**&nbsp;&nbsp;Collaborative paper on the terrain influence on rainfall offshore propagation was published in JAS. Congratulations to Zijian!<br>
-**30 May 2025**&nbsp;&nbsp;My first-authored paper on CI events related to Nocturnal LLJ over the Great Plains was published in JGR-A.<br>
+**23 Jun. 2025**&nbsp;&nbsp;Collaborative paper on the terrain influence on rainfall offshore propagation was published in [JAS](https://doi.org/10.1175/JAS-D-24-0214.1). Congratulations to Zijian!<br>
+**30 May 2025**&nbsp;&nbsp;My first-authored paper on CI events related to Nocturnal LLJ over the Great Plains was published in [JGR-A](https://doi.org/10.1029/2024JD042393).<br>
 **26 Apr.–4 May 2025**&nbsp;&nbsp;Participated in the General Assembly 2025 of the EGU and presented an oral presentation about preline CI events.<br>
-**21 Apr. 2025**&nbsp;&nbsp;My first-authored paper on the formation mechanism of a bow echo event resulted from supercell-squall line merger was published in JGR-A.<br>
+**21 Apr. 2025**&nbsp;&nbsp;My first-authored paper on the formation mechanism of a bow echo event resulted from supercell-squall line merger was published in [JGR-A](https://doi.org/10.1029/2024JD042394).<br>
 </small>
 
 
