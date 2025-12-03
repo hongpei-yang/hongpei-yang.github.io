@@ -17,7 +17,7 @@ sidebar:
 **14 Oct. 2025**&nbsp;&nbsp;Participated in a group seminar on waves and bores with Prof. <a href="https://as.nju.edu.cn/c4/55/c11341a771157/page.htm" target="_blank">Fu Hao</a> from Nanjing University.<br>
 **08 Oct. 2025**&nbsp;&nbsp;Awarded `President Scholarship`, see <a href="https://atmos.sysu.edu.cn/article/4383" target="_blank">post</a>.<br>
 **21 Sept. 2025**&nbsp;&nbsp;Invited to attend the 5th New Cornerstone 50² Forum at SUSTech, Shenzhen.<br>
-**18 Sept. 2025**&nbsp;&nbsp;Awarded `National Scholarship` for PhD students, see <a href="https://atmos.sysu.edu.cn/article/4372" target="_blank">post</a>().<br>
+**18 Sept. 2025**&nbsp;&nbsp;Awarded `National Scholarship` for PhD students, see <a href="https://atmos.sysu.edu.cn/article/4372" target="_blank">post</a>.<br>
 **21–23 Aug. 2025**&nbsp;&nbsp;Participated in the 7th National Symposium on Mesoscale Meteorology held in Datong, Shanxi and presented an oral presentation about orographic CI, winning the `Excellent Oral Presentation Award`.<br>
 **12 Aug. 2025**&nbsp;&nbsp;Subscribers of our Wechat Official Account _Weather Watch_ reached 10k!<br>
 **20–25 Jul. 2025**&nbsp;&nbsp;Participated in the Atmospheric Coovection Summer School at NJU, Nanjing.<br>
