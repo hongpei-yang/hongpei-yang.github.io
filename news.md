@@ -17,8 +17,6 @@ sidebar:
 **18 Sept. 2025** Awarded `National Scholarship` for PhD students, see [post](https://atmos.sysu.edu.cn/article/4372)  
 </small>
 
-**08 Oct. 2025** Awarded `President Scholarship`, see [post](https://atmos.sysu.edu.cn/article/4383)  
-**18 Sept. 2025** Awarded `National Scholarship` for PhD students, see [post](https://atmos.sysu.edu.cn/article/4372)  
 
 
 
