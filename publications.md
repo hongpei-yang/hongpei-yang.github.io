@@ -5,7 +5,8 @@ permalink: /publications
 ---
 
 ## Publications
-
+<br>
+#### Updated: 3 Dec. 2025
 ### Peer-reviewed publications:
 
 1.  **Yang, H.**, Y. Du, and J. Wei, 2023: Generation of multiple gravity wave couplets from convection. J. Atmos. Sci., 80, 2323–2343, https://doi.org/10.1175/JAS-D-22-0212.1.
