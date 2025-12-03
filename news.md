@@ -8,7 +8,7 @@ sidebar:
 ---
 
 ## News
-
+#### Updated: 3 Dec. 2025
 ### - In 2025 
 <small>
 **17 Nov. 2025**  Invited to share experience on the NSFC PhD Grant application at the National Graduate Forum on Atmospheric Sciences at SYSU, Zhuhai.<br>
@@ -33,5 +33,5 @@ sidebar:
 
 
 ### - Big News Before 2025 
-
+TBA
 
