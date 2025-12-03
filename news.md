@@ -14,7 +14,7 @@ sidebar:
 <small>
 **17 Nov. 2025**&nbsp;&nbsp;Invited to share experience on the NSFC PhD Grant application at the National Graduate Forum on Atmospheric Sciences at SYSU, Zhuhai.<br>
 **7–8 Nov. 2025**&nbsp;&nbsp;Invited to serve as `session chair` and present at Fudan University’s 1st N-S PhD Academic Forum (Department of Atmospheric and Oceanic Sciences); awarded `First Prize` for Oral Presentation.<br>
-**14 Oct. 2025**&nbsp;&nbsp;Participated in a group seminar on waves and bores with Prof. [Fu Hao](https://as.nju.edu.cn/c4/55/c11341a771157/page.htm) from Nanjing University.<br>
+**14 Oct. 2025**&nbsp;&nbsp;Participated in a group seminar on waves and bores with Prof. <a href="https://as.nju.edu.cn/c4/55/c11341a771157/page.htm" target="_blank">Fu Hao</a> from Nanjing University.<br>
 **08 Oct. 2025**&nbsp;&nbsp;Awarded `President Scholarship`, see [post](https://atmos.sysu.edu.cn/article/4383).<br>
 **21 Sept. 2025**&nbsp;&nbsp;Invited to attend the 5th New Cornerstone 50² Forum at SUSTech, Shenzhen.<br>
 **18 Sept. 2025**&nbsp;&nbsp;Awarded `National Scholarship` for PhD students, see [post](https://atmos.sysu.edu.cn/article/4372)<br>
