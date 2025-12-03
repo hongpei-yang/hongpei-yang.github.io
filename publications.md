@@ -6,7 +6,7 @@ permalink: /publications
 
 ## Publications
 
-### Here are my peer-reviewed publications:
+### Peer-reviewed publications:
 
 1.  **Yang, H.**, Y. Du, and J. Wei, 2023: Generation of multiple gravity wave couplets from convection. J. Atmos. Sci., 80, 2323–2343, https://doi.org/10.1175/JAS-D-22-0212.1.
 2.  **Yang, H.**, and Y. Du, 2024: Difference between upshear- and downshear-propagating waves associated with the development of squall lines. Mon. Wea. Rev., 152, 1399–1420, https://doi.org/10.1175/MWR-D-23-0109.1.
@@ -19,7 +19,7 @@ permalink: /publications
 9.  Chen Z., Y. Du, C. Vincent, E. Short and **H. Yang**, 2024. Influence of coastal topography on offshore diurnal rainfall propagation dynamics: A linear gravity wave model approach. J. Atmos. Sci., 82, 1911–1927, https://doi.org/10.1175/JAS-D-24-0214.1.
 
 
-### Here are some ongoing manuscripts:
+### Ongoing manuscripts:
 
 *   Fu D., Y. Du and **H. Yang**. The interaction between low-level jets and cold pools and their impacts on convection. [in revision at JAS]
 *   **Yang H.**, Y. Du, Z. Chen and X. Gao. Convection initiation over mountain slopes in North China: Roles of upslope winds and orographic waves. [in revision at AAS]
