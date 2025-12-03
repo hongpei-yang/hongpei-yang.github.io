@@ -20,7 +20,7 @@ sidebar:
 **18 Sept. 2025**&nbsp;&nbsp;Awarded `National Scholarship` for PhD students, see <a href="https://atmos.sysu.edu.cn/article/4372" target="_blank">post</a>.<br>
 **21–23 Aug. 2025**&nbsp;&nbsp;Participated in the 7th National Symposium on Mesoscale Meteorology held in Datong, Shanxi and presented an oral presentation about orographic CI, winning the `Excellent Oral Presentation Award`.<br>
 **12 Aug. 2025**&nbsp;&nbsp;Subscribers of our Wechat Official Account _Weather Watch_ reached 10k!<br>
-**20–25 Jul. 2025**&nbsp;&nbsp;Participated in the Atmospheric Coovection Summer School at NJU, Nanjing.<br>
+**20–25 Jul. 2025**&nbsp;&nbsp;Participated in the Atmospheric Convection Summer School at NJU, Nanjing.<br>
 **23–27 Jun. 2025**&nbsp;&nbsp;Participated in the 21st Conference on Mesoscale Processes held in Boise (USA) and presented an oral presentation about preline CI events.<br>
 **23 Jun. 2025**&nbsp;&nbsp;Collaborative paper on the terrain influence on rainfall offshore propagation was published in <a href="https://doi.org/10.1175/JAS-D-24-0214.1" target="_blank">JAS</a>.<br>
 **30 May 2025**&nbsp;&nbsp;My first-authored paper on CI events related to Nocturnal LLJ over the Great Plains was published in <a href="https://doi.org/10.1029/2024JD042393" target="_blank">JGR-A</a>.<br>
