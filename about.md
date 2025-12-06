@@ -21,28 +21,29 @@ and mesoscale meteorology, with a particular focus on mesoscale covective system
 ---
 
 #### Education Background
-<dl>
-<dt>Ph. D.in Atmospheric Science (2021–present)</dt>
-<dd>Sun Yat-sen University (SYSU), China</dd>
-<dd>Supervisor: Prof. Yu Du</dd>
-<dd>Thesis: Generation of Convective Gravity Waves and Their Impacts on Convection</dd>
+**Ph. D.in Atmospheric Science (2021–present)**  
+Sun Yat-sen University (SYSU), China  
+Supervisor: Prof. Yu Du  
+Thesis: *Generation of Convective Gravity Waves and Their Impacts on Convection*  
 <br>
-<dt>Visiting Ph.D. student (May–July 2023)</dt>
-<dd>Mesoscale and Microscale Meteorology Laboratory, NSF NCAR, USA</dd>
-<dd>Host: Dr. Juanzhen (Jenny) Sun</dd>
+**Visiting Ph.D. student (May–July 2023)**  
+Mesoscale and Microscale Meteorology Laboratory, NSF NCAR, USA  
+Host: Dr. Juanzhen (Jenny) Sun  
 <br>
-<dt>B.S. in Atmospheric Science (2017–2021)</dt>
-<dd>Nanjing University of Information, Science and Technology (NUIST), China</dd>
-<dd>Supervisor: Dr. Jiaxing Xue and Prof. Jingjia Luo</dd>
-<dd>Thesis: Evaluation of Simulated Ningaloo Niño/Niña in CMIP6 Models</dd>
-</dl>
+**B.S. in Atmospheric Science (2017–2021)**  
+Nanjing University of Information, Science and Technology (NUIST), China  
+Supervisor: Dr. Jiaxing Xue and Prof. Jingjia Luo  
+Thesis: *Evaluation of Simulated Ningaloo Niño/Niña in CMIP6 Models*  
+
 ---
 
 #### Honors and Awards
 *   China National Scholarship (Ph.D. Student)
-*   President's Scholarship (Sun Yat-sen University).  
-*   Best Student Poster Award.  
-<dd> The 16th International Conference on Mesoscale Convective Systems (ICMCSXVI), Gyeong-Ju, South Korea</dd>  
+*   President's Scholarship (Sun Yat-sen University)  
+*   Best Student Poster Award
+<p style="margin-left: 2em;">The 16th International Conference on Mesoscale Convective Systems (ICMCSXVI), Gyeong-Ju, South Korea</p>
+*    
+
 ---
 #### Grants received
 
