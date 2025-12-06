@@ -38,7 +38,8 @@ Supervisor: Dr. Jiaxing Xue and Prof. Jingjia Luo
 Thesis: *Evaluation of Simulated Ningaloo Niño/Niña in CMIP6 Models*  
 </small>
 
-<br>
+<small></small><br>
+
 ---
 
 ### Honors and Awards
@@ -76,23 +77,29 @@ Navier-Stokes PhD Student Forum of Fudan University, Shanghai (China)
 Student Forum of Universities in Yangtze River Delta, Nanjing (China)
 </small></p>
 
-<br>
+<small></small><br>
+
 ---
 
 ### Grants received
 <p><strong>National Natural Science Foundation of China Youth Project (Ph. D. Student)</strong></p>
 <p style="margin-left: 2em;"><small>
-<strong>Principal Investigator</strong>, Jan. 2025–Dec. 2027, ¥3000,000  
+<strong>Principal Investigator</strong>, Jan. 2025–Dec. 2027, ¥3000,000
+</small></p>
+<p style="margin-left: 2em;"><small>
 Mechanisms of Two Types of Convection-Triggered Gravity Waves on Severe Convection
 </small></p>
 
 <p><strong>National Natural Science Foundation of China General Project</strong></p>
 <p style="margin-left: 2em;"><small>
 <em>Participant</em>, Jan. 2025–Dec. 2028, ¥480,000
+</small></p>
+<p style="margin-left: 2em;"><small>
 The Effects of Complex Terrain on the Activity Characteristics of Convectively Generated Gravity Waves and Their Roles in the Occurrence and Development of Convection
 </small></p>
 
-<br>
+<small></small><br>
+
 ---
 
 ### Academics Services
