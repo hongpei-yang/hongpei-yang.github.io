@@ -10,8 +10,8 @@ permalink: /about
 #### Updated: 6 Dec. 2025
 <br>
 I am **Hongpei Yang**, a Ph.D. Candidate at Sun Yat-sen University.<br>
-My main research interests include atmospheric gravity waves across multi-scales,<br>
-and mesoscale meteorology, with a particular focus on mesoscale covective systems.
+My main research interests include *atmospheric gravity waves* across multi-scales,<br>
+and *mesoscale meteorology*, with a particular focus on mesoscale covective systems.
 
 👉 [**Click to see my CV (PDF)**](assets/files/Hongpei Yang_CV_251112.pdf)
 
@@ -38,6 +38,7 @@ Supervisor: Dr. Jiaxing Xue and Prof. Jingjia Luo
 Thesis: *Evaluation of Simulated Ningaloo Niño/Niña in CMIP6 Models*  
 </small>
 
+<br>
 ---
 
 ### Honors and Awards
@@ -75,6 +76,7 @@ Navier-Stokes PhD Student Forum of Fudan University, Shanghai (China)
 Student Forum of Universities in Yangtze River Delta, Nanjing (China)
 </small></p>
 
+<br>
 ---
 
 ### Grants received
@@ -89,6 +91,8 @@ Mechanisms of Two Types of Convection-Triggered Gravity Waves on Severe Convecti
 <em>Participant</em>, Jan. 2025–Dec. 2028, ¥480,000
 The Effects of Complex Terrain on the Activity Characteristics of Convectively Generated Gravity Waves and Their Roles in the Occurrence and Development of Convection
 </small></p>
+
+<br>
 ---
 
 ### Academics Services
