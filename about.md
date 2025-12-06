@@ -81,7 +81,7 @@ Student Forum of Universities in Yangtze River Delta, Nanjing (China)
 
 ---
 
-### Grants received
+### Projects 
 <p><strong>Mechanisms of Two Types of Convection-Triggered Gravity Waves on Severe Convection</strong></p>
 <p style="margin-left: 2em;"><small>
 <strong>Principal Investigator</strong>, Jan. 2025–Dec. 2027, ¥3000,000
