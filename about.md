@@ -1,21 +1,22 @@
 ---
-layout: page
+layout: inner
 title: About Me
 permalink: /about
 ---
 
-# About Me
+## About me
+<br>
+#### Updated: 6 Dec. 2025
 
-I am **Hongpei Yang**, a Ph.D. Candidate at Sun Yat-sen University.  
-My research interests include ... (你自己补充)
+I am **Hongpei Yang**, a Ph.D. Candidate at Sun Yat-sen University.<br>
+My main research interests include atmospheric gravity waves across multi-scales,<br>
+and mesoscale meteorology, with a particular focus on mesoscale covective systems.
 
 ---
 
 ## Curriculum Vitae (CV)
 
 👉 [**Download my CV (PDF)**](CV.pdf)
-
-（你把 CV.pdf 上传到仓库根目录即可）
 
 ---
 
