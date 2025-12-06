@@ -89,7 +89,7 @@ Account data: 164 posts, 10445 subscribers (16 Oct. 2025)
 
 <p><strong>Reviewer of articles for the following journals:</p>
 <p><small>
-    Nature Communications, Journal of Fluid Mechanics, Journal of Atmospheric Sciences, Monthly Weather Review, Atmospheric Chemistry and Physics, Quarter Journal of Royal Meteorologic Society, Journal of Geophysical Research: Atmospheres, Atmospheric Research, Asia-Pacific Journal of Atmospheric Sciences, Advances in Atmospheric Sciences, npj Climate and Atmospheric Science, Climate Dynamics, Journal of Applied Meteorology and Climatology, Journal of Meteorological Research, Atmospheric Science Letters, Meteorological Applications
+Nature Communications, Journal of Fluid Mechanics, Journal of Atmospheric Sciences, Monthly Weather Review, Atmospheric Chemistry and Physics, Quarter Journal of Royal Meteorologic Society, Journal of Geophysical Research: Atmospheres, Atmospheric Research, Asia-Pacific Journal of Atmospheric Sciences, Advances in Atmospheric Sciences, npj Climate and Atmospheric Science, Climate Dynamics, Journal of Applied Meteorology and Climatology, Journal of Meteorological Research, Atmospheric Science Letters, Meteorological Applications
 </small></p>
 
 
