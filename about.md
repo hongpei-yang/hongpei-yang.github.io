@@ -78,20 +78,28 @@ Student Forum of Universities in Yangtze River Delta, Nanjing (China)
 ---
 
 ### Grants received
+<p><strong>National Natural Science Foundation of China Youth Project (Ph. D. Student)</strong></p>
+<p style="margin-left: 2em;"><small>
+<em>Principal Investigator</em>, Jan. 2025–Dec. 2027, ¥3000,000
+*Mechanisms of Two Types of Convection-Triggered Gravity Waves on Severe Convection*
+</small></p>
 
+<p><strong>National Natural Science Foundation of China General Project</strong></p>
+<p style="margin-left: 2em;"><small>
+Participant, Jan. 2025–Dec. 2028, ¥480,000
+The Effects of Complex Terrain on the Activity Characteristics of Convectively Generated Gravity Waves and Their Roles in the Occurrence and Development of Convection
+</small></p>
 ---
 
 ### Academics Services
-<p><strong>Manager and editor of WeChat official account *Weather Watch*</strong>, since Aug. 2024</p>
+<p><strong>Manager and editor of WeChat official account "Weather Watch"</strong>, since Aug. 2024</p>
 <p style="margin-left: 2em;"><small>
 Account data: 164 posts, 10445 subscribers (16 Oct. 2025)
 </small></p>
 
-<p><strong>Reviewer of articles for the following journals:</p>
+<p><strong>Reviewer of articles for the following journals</p>
 <p style="margin-left: 2em;"><small>
 Nature Communications, Journal of Fluid Mechanics, Journal of Atmospheric Sciences, Monthly Weather Review, Atmospheric Chemistry and Physics, Quarter Journal of Royal Meteorologic Society, Journal of Geophysical Research: Atmospheres, Atmospheric Research, Asia-Pacific Journal of Atmospheric Sciences, Advances in Atmospheric Sciences, npj Climate and Atmospheric Science, Climate Dynamics, Journal of Applied Meteorology and Climatology, Journal of Meteorological Research, Atmospheric Science Letters, Meteorological Applications
 </small></p>
-
----
 
 
