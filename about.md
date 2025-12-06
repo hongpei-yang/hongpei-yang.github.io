@@ -21,7 +21,7 @@ and *mesoscale meteorology*, with a particular focus on mesoscale covective syst
 **Ph. D.in Atmospheric Science (2021–present)**  
 <small>
 Sun Yat-sen University (SYSU), China  
-Supervisor: Prof. Yu Du  
+Supervisor: Prof. <a href="https://atmos.sysu.edu.cn/teacher/364" target="_blank">Yu Du</a>  
 Thesis: *Generation of Convective Gravity Waves and Their Impacts on Convection*  
 </small>
 
@@ -82,20 +82,20 @@ Student Forum of Universities in Yangtze River Delta, Nanjing (China)
 ---
 
 ### Grants received
-<p><strong>National Natural Science Foundation of China Youth Project (Ph. D. Student)</strong></p>
+<p><strong>Mechanisms of Two Types of Convection-Triggered Gravity Waves on Severe Convection</strong></p>
 <p style="margin-left: 2em;"><small>
 <strong>Principal Investigator</strong>, Jan. 2025–Dec. 2027, ¥3000,000
 </small></p>
 <p style="margin-left: 2em;"><small>
-Mechanisms of Two Types of Convection-Triggered Gravity Waves on Severe Convection
+National Natural Science Foundation of China Youth Project (Ph. D. Student)
 </small></p>
 
-<p><strong>National Natural Science Foundation of China General Project</strong></p>
+<p><strong>The Effects of Complex Terrain on the Activity Characteristics of Convectively Generated Gravity Waves and Their Roles in the Occurrence and Development of Convection</strong></p>
 <p style="margin-left: 2em;"><small>
-<em>Participant</em>, Jan. 2025–Dec. 2028, ¥480,000
+<em>Participant</em> (PI: Yu Du), Jan. 2025–Dec. 2028, ¥480,000
 </small></p>
 <p style="margin-left: 2em;"><small>
-The Effects of Complex Terrain on the Activity Characteristics of Convectively Generated Gravity Waves and Their Roles in the Occurrence and Development of Convection
+National Natural Science Foundation of China General Project
 </small></p>
 
 <small></small><br>
