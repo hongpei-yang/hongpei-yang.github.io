@@ -18,7 +18,7 @@ sidebar:
 **26 Oct. 2025**&nbsp;&nbsp;Du Group team building on Qi’ao Island, Zhuhai.<br>
 **08 Oct. 2025**&nbsp;&nbsp;Awarded `President Scholarship`, see <a href="https://atmos.sysu.edu.cn/article/4383" target="_blank">post</a>.<br>
 **21 Sept. 2025**&nbsp;&nbsp;Invited to attend the 5th New Cornerstone 50² Forum at SUSTech, Shenzhen.<br>
-**20 Sept. 2025**&nbsp;&nbsp;Du Group Semester Report and Teachers' Day Celebration for Prof. <a href="https://atmos.sysu.edu.cn/teacher/364" target="_blank">Yu Du</a>.<br>
+**20 Sept. 2025**&nbsp;&nbsp;Du Group Semester Report and Teachers' Day Celebration for Prof. Yu Du.<br>
 **18 Sept. 2025**&nbsp;&nbsp;Awarded `National Scholarship` for PhD students, see <a href="https://atmos.sysu.edu.cn/article/4372" target="_blank">post</a>.<br>
 **21–23 Aug. 2025**&nbsp;&nbsp;Participated in the 7th National Symposium on Mesoscale Meteorology held in Datong, Shanxi and presented an oral presentation about orographic CI, winning the `Excellent Oral Presentation Award`.<br>
 **12 Aug. 2025**&nbsp;&nbsp;Subscribers of our Wechat Official Account _Weather Watch_ reached 10k!<br>
