@@ -22,11 +22,11 @@ and mesoscale meteorology, with a particular focus on mesoscale covective system
 
 #### Education Background
 <dl>
-<dt>Ph. D.in Atmospheric Science (2021–present)</dt>  
-<dd>Sun Yat-sen University(SYSU), China</dd>  
-<dd>Supervisor: Prof. Yu Du</dd>  
-<dd>Thesis: Generation of Convective Gravity Waves and Their Impacts on Convection</dd>  
-
+<dt>Ph. D.in Atmospheric Science (2021–present)</dt>
+<dd>Sun Yat-sen University(SYSU), China</dd>
+<dd>Supervisor: Prof. Yu Du</dd>
+<dd>Thesis: Generation of Convective Gravity Waves and Their Impacts on Convection</dd>
+<br>
 <dt>Visiting Ph.D. student (May–July 2023)</dt>  
 <dd>Mesoscale and Microscale Meteorology Laboratory, NSF NCAR, USA</dd>  
 <dd>Host: Dr. Juanzhen (Jenny) Sun</dd>  
