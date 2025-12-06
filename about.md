@@ -83,13 +83,15 @@ Student Forum of Universities in Yangtze River Delta, Nanjing (China)
 
 ### Academics Services
 <p><strong>Manager and editor of WeChat official account *Weather Watch*</strong>, since Aug. 2024</p>
-<p><small>
+<p style="margin-left: 2em;"><small>
 Account data: 164 posts, 10445 subscribers (16 Oct. 2025)
 </small></p>
 
 <p><strong>Reviewer of articles for the following journals:</p>
-<p><small>
+<p style="margin-left: 2em;"><small>
 Nature Communications, Journal of Fluid Mechanics, Journal of Atmospheric Sciences, Monthly Weather Review, Atmospheric Chemistry and Physics, Quarter Journal of Royal Meteorologic Society, Journal of Geophysical Research: Atmospheres, Atmospheric Research, Asia-Pacific Journal of Atmospheric Sciences, Advances in Atmospheric Sciences, npj Climate and Atmospheric Science, Climate Dynamics, Journal of Applied Meteorology and Climatology, Journal of Meteorological Research, Atmospheric Science Letters, Meteorological Applications
 </small></p>
+
+---
 
 
