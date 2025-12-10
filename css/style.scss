@@ -85,12 +85,15 @@ button.btn, input.btn {
 .hero-content {
   position: relative;
   z-index: 2;
+  max-width: 1200px; 
   width: 60%;
   margin: 0 auto;
+  padding: 0 15px;
   text-align: center;
 
-  h1 { font-size: 48px; }
-  p { margin: 2em 0 4em; }
+  @include bp-medium { width: 80%; }
+  @include bp-small { width: 90%; }
+  @include bp-xsmall { width: 100%; padding: 0 10px; }
 }
 
 .hero-buttons {
