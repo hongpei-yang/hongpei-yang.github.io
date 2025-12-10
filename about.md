@@ -10,7 +10,7 @@ permalink: /about
 <div class="about-row">
   <!-- 左侧照片 -->
   <div class="about-photo-col">
-    <img src="/assets/figures/hongpei.jpg" alt="Hongpei Yang" class="about-photo">
+    <img src="/assets/figures/myphoto.png" alt="Hongpei Yang" class="about-photo">
   </div>
 
   <!-- 右侧文字 -->
