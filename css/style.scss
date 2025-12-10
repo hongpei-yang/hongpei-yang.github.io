@@ -64,28 +64,28 @@ img {
   width: 100%;
 }
 
-// button.btn, input.btn {
-//   padding: 12px 35px;
-//   margin: 2em 0.5em;
-//   border: solid 1px #d5e0e7;
-//   border-radius: 4px;
-//   color: #2E4453;
-//   font-weight: 600;
-//   &:hover, &.btn-default:hover {
-//     background-color: white;
-//     border: solid 1px #b0c5d2;
-//     -moz-box-shadow: 0 1px 0 #b0c5d2;
-//     -webkit-box-shadow: 0 1px 0 #b0c5d2;
-//     box-shadow: 0 1px 0 #b0c5d2;
-//   }
-//   i {
-//     padding-right: 0.5em;
-//   }
-//   @include bp-xsmall {
-//     @include horizontal-align;
-//     margin-bottom: 0.5em;
-//   }
-// }
+button.btn, input.btn {
+  padding: 12px 35px;
+  margin: 2em 0.5em;
+  border: solid 1px #d5e0e7;
+  border-radius: 4px;
+  color: #2E4453;
+  font-weight: 600;
+  &:hover, &.btn-default:hover {
+    background-color: white;
+    border: solid 1px #b0c5d2;
+    -moz-box-shadow: 0 1px 0 #b0c5d2;
+    -webkit-box-shadow: 0 1px 0 #b0c5d2;
+    box-shadow: 0 1px 0 #b0c5d2;
+  }
+  i {
+    padding-right: 0.5em;
+  }
+  @include bp-xsmall {
+    @include horizontal-align;
+    margin-bottom: 0.5em;
+  }
+}
 
 .main {
   background-color: white;
@@ -96,17 +96,17 @@ img {
   }
 }
 
-// .section-jump {
-//   position: relative;
-//   top: 0;
-//   color: #C8D7E1;
-//   margin: 0 auto;
-//   display: table;
-//   @include transition(top .2s ease-in);
-//   &:hover {
-//     top: 3px;
-//   }
-// }
+.section-jump {
+  position: relative;
+  top: 0;
+  color: #C8D7E1;
+  margin: 0 auto;
+  display: table;
+  @include transition(top .2s ease-in);
+  &:hover {
+    top: 3px;
+  }
+}
 
 /*--------------------------------------------------------------
 	2.0 Home Hero
