@@ -65,8 +65,7 @@ img {
 }
 
 button.btn, input.btn {
-  padding: 10px 24px;
-  font-size: 14px;
+  padding: 12px 35px;
   margin: 2em 0.5em;
   border: solid 1px #d5e0e7;
   border-radius: 4px;
@@ -147,13 +146,53 @@ button.btn, input.btn {
 
   h1 { font-size: 48px; }
   p { margin: 2em 0 4em 0; }
+}
 
-  .hero-buttons {
-    margin: 0 auto;
-    display: table;
-    i { padding-right: 0.5em; }
+/* 按钮小尺寸优化 */
+.hero-buttons button.btn,
+.hero-buttons input.btn {
+  padding: 8px 22px;     /* 桌面端尺寸 */
+  font-size: 14px;
+  margin: 0.8em 0.5em;
+  border: solid 1px #d5e0e7;
+  border-radius: 4px;
+  color: #2E4453;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  i {
+    padding-right: 0.3em;
+    font-size: 0.9em;
+  }
+
+  &:hover, &.btn-default:hover {
+    background-color: white;
+    border-color: #b0c5d2;
+    box-shadow: 0 1px 0 #b0c5d2;
   }
 }
+
+/* 响应式适配 */
+@include bp-small {
+  .hero-buttons button.btn,
+  .hero-buttons input.btn {
+    padding: 6px 18px;   /* 平板端略小 */
+    font-size: 13px;
+  }
+}
+
+@include bp-xsmall {
+  .hero-buttons button.btn,
+  .hero-buttons input.btn {
+    padding: 5px 16px;   /* 手机端更小 */
+    font-size: 12px;
+    width: 100%;         /* 手机屏幕全宽 */
+  }
+}
+
+
 
 /*--------------------------------------------------------------
 	2.1 Contact
