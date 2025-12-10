@@ -62,7 +62,7 @@ button.btn, input.btn {
 }
 
 /*--------------------------------------------------------------
-2.0 Hero Section
+2.0 Home Hero Section
 --------------------------------------------------------------*/
 .hero-container {
   position: relative;
@@ -70,6 +70,14 @@ button.btn, input.btn {
   height: 100vh;
   padding-top: 60px;
   padding-bottom: 60px;
+  
+  @include bp-small {
+    height: 80vh; /* 平板端缩小背景高度 */
+  }
+
+  @include bp-xsmall {
+    height: 60vh; /* 手机端进一步缩小 */
+  }
 }
 
 .hero-container::before {
@@ -85,6 +93,10 @@ button.btn, input.btn {
   width: 60%;
   margin: 0 auto;
   text-align: center;
+  
+  @include bp-small, bp-xsmall {
+    width: 90%; /* 小屏幕时文字宽度适应 */
+  }
   h1 { font-size: 48px; }
   p { margin: 1.5em 0 3em; }
 }
@@ -96,13 +108,19 @@ button.btn, input.btn {
   flex-wrap:wrap;
   gap:12px;
   margin-bottom:40px;
-}
-.hero-buttons .btn {
-  padding: 8px 20px;
-  font-size: 14px;
-  display:inline-flex;
-  align-items:center;
-  i { font-size:0.9em; }
+  .btn {
+    padding: 8px 20px;
+    font-size: 14px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    i { font-size: 0.9em; }
+
+    @include bp-xsmall {
+      width: 100%;      /* 手机端每个按钮占一行 */
+      margin-bottom: 10px;
+    }
+  }
 }
 
 /* Arrow under buttons */
@@ -112,7 +130,7 @@ button.btn, input.btn {
   left:50%;
   transform:translateX(-50%);
   color:#fff;
-  font-size:34px;
+  font-size:32px;
   opacity:0.85;
   cursor:pointer;
   z-index:10;
@@ -120,55 +138,57 @@ button.btn, input.btn {
 }
 .section-jump:hover { opacity:1; }
 
-#portfolio { margin-top:-10px; }
-
-/*--------------------------------------------------------------
-2.x Mobile Hero Adjustments
---------------------------------------------------------------*/
-@media (max-width: 768px) {
-  .hero-container {
-    height: 60vh;
-    background-position: center;
-    padding-top: 40px;
-    padding-bottom: 30px;
-  }
-  .hero-content {
-    width: 90%;
-  }
-  .hero-content h1 {
-    font-size: 1.9rem;
-  }
-  .hero-content p {
-    font-size: 1rem;
-    margin: 1.2em 0 2.2em;
-  }
-  .hero-buttons {
-    flex-direction: column;
-    gap: 10px;
-    align-items: center;
-  }
-  .hero-buttons .btn {
-    width: 80%;
-    max-width: 260px;
-    padding: 8px 16px;
-    font-size: 0.9rem;
-  }
-  .section-jump {
-    bottom: 12px;
-    font-size: 28px;
-  }
-}
-
 /*--------------------------------------------------------------
 3.0 Posts
 --------------------------------------------------------------*/
 #portfolio .container {
   margin-top: 6em;
 }
+
+.content-wrap {
+  margin-bottom: 8em;
+
+  @include bp-xsmall, bp-small {
+    margin-bottom: 2em;
+  }
+
+  .content {
+    margin-top: 5em;
+    margin-left: 5em;
+
+    @include bp-xsmall { margin-left: 0; }
+
+    /* 只保留 Visit 按钮 */
+    button, input.btn {
+      display: inline-flex;
+      padding: 8px 20px;
+      font-size: 14px;
+      font-weight: 600;
+      border: 1px solid #d5e0e7;
+      border-radius: 4px;
+      color: #2E4453;
+      background: none;
+      margin-top: 1em;
+
+      &:hover {
+        background: #fff;
+        border-color: #b0c5d2;
+      }
+    }
+
+    /* 隐藏其他按钮或多余元素 */
+    .tags, .categories, .excerpt button:not(.visit-btn) {
+      display: none;
+    }
+  }
+}
+
+/* 保留原 Post 风格的标题、subtitle、post-row 等 */
 .section-title {
   position: relative;
   margin-bottom: 1em;
 }
+.post-row { display: flex; align-items: center; }
 
 /*--------------------------------------------------------------
 4.0 Footer
