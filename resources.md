@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Publications
-permalink: /publications
+permalink: /resources
 ---
 
 ## Resources
