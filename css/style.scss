@@ -118,7 +118,7 @@ button.btn, input.btn {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  min-height: 100vh;          /* 至少占满屏幕 */
+  height: 100vh;          /* 至少占满屏幕 */
   padding-top: 60px;          /* topbar 留白 */
   padding-bottom: 60px;       /* 给箭头留出空间 */
 
@@ -130,20 +130,7 @@ button.btn, input.btn {
     background: rgba(255,255,255,0.5); /* 半透明遮罩 */
     z-index: 0;
   }
-
-/* 向下箭头叠在图上 */
-  .section-jump {
-    position: absolute; !important;
-    bottom: 20px;              /* 距底部位置 */
-    left: 50%;
-    transform: translateX(-50%);
-    color: #C8D7E1;
-    font-size: 32px;           /* 箭头大小 */
-    cursor: pointer;
-    z-index: 3;                 /* 遮罩层上方 */
-  }
 }
-
 
 /* 让文字浮在遮罩之上 */
 .hero-content {
@@ -214,7 +201,28 @@ button.btn, input.btn {
   }
 }
 
+/* 向下箭头叠在图上 */
+  .section-jump {
+    position: absolute; 
+    bottom: 15px;              /* 距底部位置 */
+    left: 50%;
+    transform: translateX(-50%);
+    color: #fff;
+    font-size: 32px;           /* 箭头大小 */
+    cursor: pointer;
+    z-index: 5;                 /* 遮罩层上方 */
+	opacity: 0.85;
+    transition: opacity .3s;
+  }
 
+.section-jump:hover {
+  opacity: 1;
+}
+
+/* 减少背景图下方到post之间的留白 */
+#portfolio {
+  margin-top: -20px !important;   /* 根据实际情况调整 */
+}
 
 /*--------------------------------------------------------------
 	2.1 Contact
