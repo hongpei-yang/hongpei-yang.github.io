@@ -79,6 +79,12 @@ button.btn, input.btn {
   flex-direction: column;
   justify-content: center; 
 
+  /* 限制最大宽度，居中让左右留白生效 */
+  max-width: 1200px;      
+  margin: 0 auto;         
+  padding-left: 15px;     
+  padding-right: 15px;
+
   &::before {
     content: "";
     position: absolute;
@@ -92,10 +98,7 @@ button.btn, input.btn {
 .hero-content {
   position: relative;
   z-index: 2;
-  max-width: 1200px;  /* 限制内容宽度 */
-  width: 100%;
-  margin: 0 auto;     /* 内容居中 */
-  padding: 0 15px;    /* 内容左右间距 */
+  width: 80%;
 
   @include bp-medium { width: 80%; margin: 0 auto; }
   @include bp-small { width: 90%; margin: 0 auto; }
@@ -143,7 +146,7 @@ button.btn, input.btn {
   .hero-buttons .btn {
     padding: 5px 16px;
     font-size: 12px;
-    width: 100%;  /* 每个按钮占一行 */
+    width: 60%;  /* 每个按钮占一行 */
   }
 }
 
