@@ -4,7 +4,7 @@
   <!-- Meta -->
   <meta charset="utf-8">
 
-  <title>
+  <!-- <title>
   {% if page.title %}
     {{ page.title }}
   {% elsif post.title %}
@@ -12,7 +12,15 @@
   {% else %}
     {{ site.title }} - {{ site.description }}
   {% endif %}
-  </title>
+  </title> -->
+
+<title>
+  {% if page.title %}
+    {{ page.title }} | Hongpei Yang
+  {% else %}
+    {{ site.title }} | Hongpei Yang}
+  {% endif %}
+</title>
   
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
