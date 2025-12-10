@@ -203,9 +203,16 @@ body,
 
   .content {
     margin-top: 5em;
-    margin-left: 5em;
+    max-width: 1200px;   // 限制最大宽度
+    width: 80%;
+    margin-left: auto;   // 左右居中
+    margin-right: auto; 
 
-    @include bp-xsmall { margin-left: 0; }
+    @include bp-xsmall {
+      width: 100%;       // 小屏幕全宽
+      margin-left: 0;
+      margin-right: 0;
+    }
 
     h3.title {
       position: relative;
@@ -223,8 +230,7 @@ body,
     }
 
     .excerpt {
-      width: 80%;
-      @include bp-xsmall { width: 100%; }
+      width: 100%;
     }
 
     /* Only keep Visit button */
@@ -241,6 +247,13 @@ body,
   font-size: 14px;
   border-top: 1px solid #efefef;
   padding: 1em 0;
+
+  // 限制最大宽度并居中，让左右留白生效
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 
   p {
     font-size: 12px;
