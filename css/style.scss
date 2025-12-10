@@ -133,7 +133,7 @@ button.btn, input.btn {
 
 /* 向下箭头叠在图上 */
   .section-jump {
-    position: absolute;
+    position: absolute; !important;
     bottom: 20px;              /* 距底部位置 */
     left: 50%;
     transform: translateX(-50%);
