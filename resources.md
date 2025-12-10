@@ -1,15 +1,20 @@
 ---
-layout: page
-title: Resources
-permalink: /resources
+layout: inner
+title: Publications
+permalink: /publications
 ---
 
-# Resources
+## Resources
+<br>
 
+TBA
 Curated resources related to my research area:
 
 - Useful tools
 - Recommended papers
 - Datasets
 - Tutorials
-- Anything you want to share
+
+<br>
+
+#### Updated: 3 Dec. 2025
