@@ -173,7 +173,6 @@ button.btn, input.btn {
 
 .hero-buttons button.btn,
 .hero-buttons input.btn {
-  @extend %opensans;       /* 保留字体 */
   padding: 8px 22px;       /* 桌面端尺寸 */
   font-size: 14px;
   border: solid 1px #d5e0e7;
