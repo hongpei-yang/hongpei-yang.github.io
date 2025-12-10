@@ -114,12 +114,12 @@ button.btn, input.btn {
 .hero-container {
   position: relative;
   background-color: transparent !important;
-  background-image: url('/assets/figures/bkg.jpg') !important;
+  background-image: url('/assets/figures/bkg_phuket.jpg') !important;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   height: 100vh;
-  padding-top: 120px; /* 给导航栏留出空间 */
+  padding-top: 150px; /* 给导航栏留出空间 */
 
   &::before {
     content: "";
