@@ -6,7 +6,7 @@ permalink: /publications
 
 ## Publications
 <br>
-#### Updated: 3 Dec. 2025
+
 ### Peer-reviewed publications:
 
 1.  **Yang, H.**, Y. Du, and J. Wei, 2023: Generation of multiple gravity wave couplets from convection. J. Atmos. Sci., 80, 2323–2343, https://doi.org/10.1175/JAS-D-22-0212.1.
@@ -24,5 +24,10 @@ permalink: /publications
 
 *   Fu D., Y. Du and **H. Yang**. The interaction between low-level jets and cold pools and their impacts on convection. [in revision at JAS]
 *   **Yang H.**, Y. Du, Z. Chen and X. Gao. Convection initiation over mountain slopes in North China: Roles of upslope winds and orographic waves. [in revision at AAS]
+
+
+<br>
+
+#### Updated: 3 Dec. 2025
 
 
