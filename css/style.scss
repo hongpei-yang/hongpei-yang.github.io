@@ -51,7 +51,9 @@ button.btn, input.btn {
   border-radius: 4px;
   color: #2E4453;
   font-weight: 600;
+  
   i { padding-right: 0.4em; }
+  
   &:hover { background:#fff; border-color:#b0c5d2; }
 }
 
@@ -70,21 +72,14 @@ button.btn, input.btn {
   height: 100vh;
   padding-top: 60px;
   padding-bottom: 60px;
-  
-  @include bp-small {
-    height: 80vh; /* 平板端缩小背景高度 */
-  }
 
-  @include bp-xsmall {
-    height: 60vh; /* 手机端进一步缩小 */
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.45);
+    z-index: 0;
   }
-}
-
-.hero-container::before {
-  content: "";
-  position:absolute; inset:0;
-  background: rgba(255,255,255,0.45);
-  z-index:0;
 }
 
 .hero-content {
@@ -93,50 +88,69 @@ button.btn, input.btn {
   width: 60%;
   margin: 0 auto;
   text-align: center;
-  
-  @include bp-small, bp-xsmall {
-    width: 90%; /* 小屏幕时文字宽度适应 */
-  }
+
   h1 { font-size: 48px; }
-  p { margin: 1.5em 0 3em; }
+  p { margin: 2em 0 4em; }
 }
 
-/* Buttons inside hero */
 .hero-buttons {
-  display:flex;
-  justify-content:center;
-  flex-wrap:wrap;
-  gap:12px;
-  margin-bottom:40px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 40px;
+
   .btn {
-    padding: 8px 20px;
+    padding: 8px 22px;
     font-size: 14px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
+
     i { font-size: 0.9em; }
 
-    @include bp-xsmall {
-      width: 100%;      /* 手机端每个按钮占一行 */
-      margin-bottom: 10px;
+    &:hover {
+      background-color: white;
+      border-color: #b0c5d2;
+      box-shadow: 0 1px 0 #b0c5d2;
     }
   }
 }
 
-/* Arrow under buttons */
-.section-jump {
-  position:absolute;
-  bottom:25px;
-  left:50%;
-  transform:translateX(-50%);
-  color:#fff;
-  font-size:32px;
-  opacity:0.85;
-  cursor:pointer;
-  z-index:10;
-  transition:opacity .3s;
+/* Responsive buttons for tablet */
+@include bp-small {
+  .hero-buttons .btn {
+    padding: 6px 18px;
+    font-size: 13px;
+  }
 }
-.section-jump:hover { opacity:1; }
+
+/* Responsive buttons for mobile: 4 lines */
+@include bp-xsmall {
+  .hero-buttons .btn {
+    padding: 5px 16px;
+    font-size: 12px;
+    width: 100%;  /* 每个按钮占一行 */
+  }
+}
+
+/* Arrow under hero buttons */
+.section-jump {
+  position: absolute;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  font-size: 34px;
+  opacity: 0.85;
+  cursor: pointer;
+  z-index: 10;
+  transition: opacity .3s;
+
+  &:hover { opacity: 1; }
+}
+
+#portfolio { margin-top: -10px; }
 
 /*--------------------------------------------------------------
 3.0 Posts
@@ -145,12 +159,16 @@ button.btn, input.btn {
   margin-top: 6em;
 }
 
+.post-row {
+  display: flex;
+  align-items: center;
+}
+
 .content-wrap {
   margin-bottom: 8em;
 
-  @include bp-xsmall, bp-small {
-    margin-bottom: 2em;
-  }
+  @include bp-small { margin-bottom: 2em; }
+  @include bp-xsmall { margin-bottom: 2em; }
 
   .content {
     margin-top: 5em;
@@ -158,53 +176,58 @@ button.btn, input.btn {
 
     @include bp-xsmall { margin-left: 0; }
 
-    /* 只保留 Visit 按钮 */
-    button, input.btn {
-      display: inline-flex;
-      padding: 8px 20px;
-      font-size: 14px;
-      font-weight: 600;
-      border: 1px solid #d5e0e7;
-      border-radius: 4px;
-      color: #2E4453;
-      background: none;
-      margin-top: 1em;
+    h3.title {
+      position: relative;
+      margin-bottom: 1.5em;
 
-      &:hover {
-        background: #fff;
-        border-color: #b0c5d2;
+      &:after {
+        content: '';
+        position: absolute;
+        top: 1.5em;
+        left: 0;
+        width: 3em;
+        height: 3px;
+        background-color: #ECEFF1;
       }
     }
 
-    /* 隐藏其他按钮或多余元素 */
-    .tags, .categories, .excerpt button:not(.visit-btn) {
-      display: none;
+    .excerpt {
+      width: 80%;
+      @include bp-xsmall { width: 100%; }
     }
+
+    /* Only keep Visit button */
+    button { font-size: 16px; margin: 1em 0 1em 0; }
+
+    .tags, .categories { display: none; }
   }
 }
-
-/* 保留原 Post 风格的标题、subtitle、post-row 等 */
-.section-title {
-  position: relative;
-  margin-bottom: 1em;
-}
-.post-row { display: flex; align-items: center; }
 
 /*--------------------------------------------------------------
 4.0 Footer
 --------------------------------------------------------------*/
 .site-footer {
-  font-size:14px;
-  border-top:1px solid #efefef;
-  padding:1em 0;
-  p { font-size:12px; color:#9eb1bd; margin:0; }
-}
+  font-size: 14px;
+  border-top: 1px solid #efefef;
+  padding: 1em 0;
 
+  p {
+    font-size: 12px;
+    color: #9eb1bd;
+    margin: 0;
+    padding: 10px 0;
+    @include bp-xsmall { text-align: center; }
+  }
+}
 /*--------------------------------------------------------------
 5.0 Code Formatting (unchanged)
 --------------------------------------------------------------*/
-pre, code { color:#262626; font-size:14px; background:#FBFBFB; border:1px solid #E5E5E5; }
+pre, code { 
+  color:#262626; 
+  font-size:14px; 
+  background:#FBFBFB; 
+  border:1px solid #E5E5E5; 
+}
 pre { padding:8px 12px; overflow-x:auto; }
 code { padding:1px 5px; }
 
-/* Highlight syntax unchanged for brevity */
