@@ -72,9 +72,7 @@ button.btn, input.btn {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  height: 100vh;
-  max-width: 1200px;
-  margin: 0 auto;
+  min-height: 100vh;
   padding-top: 60px;
   padding-bottom: 60px;
   display: flex;
@@ -94,9 +92,10 @@ button.btn, input.btn {
 .hero-content {
   position: relative;
   z-index: 2;
-  width: 60%;
-  margin: 0 auto;
-  text-align: center;
+  max-width: 1200px;  /* 限制内容宽度 */
+  width: 100%;
+  margin: 0 auto;     /* 内容居中 */
+  padding: 0 15px;    /* 内容左右间距 */
 
   @include bp-medium { width: 80%; margin: 0 auto; }
   @include bp-small { width: 90%; margin: 0 auto; }
