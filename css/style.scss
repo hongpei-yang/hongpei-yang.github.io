@@ -271,4 +271,46 @@ code { padding:1px 5px; }
 .inner-page-container {
   padding-top: 60px; /* 根据 topbar 高度调整 */
 }
+/*--------------------------------------------------------------
+7.0 About Me Photo & Text Layout
+--------------------------------------------------------------*/
+.about-row {
+  display: flex;
+  align-items: center;
+  gap: 2em; /* 左右间距，保证文字不贴边 */
+  margin-bottom: 3em;
+
+  @include bp-xsmall {
+    flex-direction: column;
+    text-align: center;
+    gap: 1em;
+  }
+}
+
+.about-photo-col {
+  flex: 0 0 250px; /* 固定宽度 */
+  @include bp-xsmall {
+    flex: 0 0 auto;
+    margin-bottom: 1em;
+  }
+}
+
+.about-photo {
+  width: 100%;
+  height: auto;
+  border-radius: 50% / 50%; /* 椭圆 */
+  object-fit: cover;
+}
+
+.about-text-col {
+  flex: 1;
+  font-size: 1.2em;
+  line-height: 1.6em;
+  padding-left: 1em; /* 文字与图片之间的空隙 */
+
+  @include bp-xsmall {
+    padding-left: 0;
+    width: 100%;
+  }
+}
 
