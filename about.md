@@ -7,8 +7,6 @@ permalink: /about
 
 ## About me
 <br>
-#### Updated: 6 Dec. 2025
-<br>
 I am **Hongpei Yang**, a Ph.D. Candidate at Sun Yat-sen University.<br>
 My main research interests include *atmospheric gravity waves* across multi-scales,<br>
 and *mesoscale meteorology*, with a particular focus on mesoscale covective systems.
@@ -113,4 +111,7 @@ Account data: 164 posts, 10445 subscribers (16 Oct. 2025)
 Nature Communications, Journal of Fluid Mechanics, Journal of Atmospheric Sciences, Monthly Weather Review, Atmospheric Chemistry and Physics, Quarter Journal of Royal Meteorologic Society, Journal of Geophysical Research: Atmospheres, Atmospheric Research, Asia-Pacific Journal of Atmospheric Sciences, Advances in Atmospheric Sciences, npj Climate and Atmospheric Science, Climate Dynamics, Journal of Applied Meteorology and Climatology, Journal of Meteorological Research, Atmospheric Science Letters, Meteorological Applications
 </small></p>
 
+<br>
+
+#### Updated: 6 Dec. 2025
 
