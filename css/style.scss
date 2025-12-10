@@ -64,28 +64,28 @@ img {
   width: 100%;
 }
 
-button.btn, input.btn {
-  padding: 12px 35px;
-  margin: 2em 0.5em;
-  border: solid 1px #d5e0e7;
-  border-radius: 4px;
-  color: #2E4453;
-  font-weight: 600;
-  &:hover, &.btn-default:hover {
-    background-color: white;
-    border: solid 1px #b0c5d2;
-    -moz-box-shadow: 0 1px 0 #b0c5d2;
-    -webkit-box-shadow: 0 1px 0 #b0c5d2;
-    box-shadow: 0 1px 0 #b0c5d2;
-  }
-  i {
-    padding-right: 0.5em;
-  }
-  @include bp-xsmall {
-    @include horizontal-align;
-    margin-bottom: 0.5em;
-  }
-}
+// button.btn, input.btn {
+//   padding: 12px 35px;
+//   margin: 2em 0.5em;
+//   border: solid 1px #d5e0e7;
+//   border-radius: 4px;
+//   color: #2E4453;
+//   font-weight: 600;
+//   &:hover, &.btn-default:hover {
+//     background-color: white;
+//     border: solid 1px #b0c5d2;
+//     -moz-box-shadow: 0 1px 0 #b0c5d2;
+//     -webkit-box-shadow: 0 1px 0 #b0c5d2;
+//     box-shadow: 0 1px 0 #b0c5d2;
+//   }
+//   i {
+//     padding-right: 0.5em;
+//   }
+//   @include bp-xsmall {
+//     @include horizontal-align;
+//     margin-bottom: 0.5em;
+//   }
+// }
 
 .main {
   background-color: white;
@@ -96,17 +96,17 @@ button.btn, input.btn {
   }
 }
 
-.section-jump {
-  position: relative;
-  top: 0;
-  color: #C8D7E1;
-  margin: 0 auto;
-  display: table;
-  @include transition(top .2s ease-in);
-  &:hover {
-    top: 3px;
-  }
-}
+// .section-jump {
+//   position: relative;
+//   top: 0;
+//   color: #C8D7E1;
+//   margin: 0 auto;
+//   display: table;
+//   @include transition(top .2s ease-in);
+//   &:hover {
+//     top: 3px;
+//   }
+// }
 
 /*--------------------------------------------------------------
 	2.0 Home Hero
@@ -118,8 +118,9 @@ button.btn, input.btn {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  height: 100vh;
-  padding-top: 150px; /* 给导航栏留出空间 */
+  min-height: 100vh;          /* 至少占满屏幕 */
+  padding-top: 60px;          /* topbar 留白 */
+  padding-bottom: 60px;       /* 给箭头留出空间 */
 
   &::before {
     content: "";
@@ -128,6 +129,19 @@ button.btn, input.btn {
     width: 100%; height: 100%;
     background: rgba(255,255,255,0.5); /* 半透明遮罩 */
     z-index: 0;
+  }
+}
+
+/* 向下箭头叠在图上 */
+  .section-jump {
+    position: absolute;
+    bottom: 20px;              /* 距底部位置 */
+    left: 50%;
+    transform: translateX(-50%);
+    color: #C8D7E1;
+    font-size: 32px;           /* 箭头大小 */
+    cursor: pointer;
+    z-index: 3;                 /* 遮罩层上方 */
   }
 }
 
