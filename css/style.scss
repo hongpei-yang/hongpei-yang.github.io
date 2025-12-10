@@ -130,7 +130,6 @@ button.btn, input.btn {
     background: rgba(255,255,255,0.5); /* 半透明遮罩 */
     z-index: 0;
   }
-}
 
 /* 向下箭头叠在图上 */
   .section-jump {
@@ -173,6 +172,8 @@ button.btn, input.btn {
 
 .hero-buttons button.btn,
 .hero-buttons input.btn {
+  @extend %opensans;
+  @include transition(color .2s ease-in-out);
   padding: 8px 22px;       /* 桌面端尺寸 */
   font-size: 14px;
   border: solid 1px #d5e0e7;
