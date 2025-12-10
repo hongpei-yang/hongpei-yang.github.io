@@ -31,18 +31,21 @@
               <i class="fa-brands fa-google-scholar"></i>GoogleScholar
             </a>
             {% endif %}
+
             {% if site.orcid_username != '' %}
             <a href="https://orcid.org/{{ site.orcid_username }}" class="btn btn-default btn-lg"
               target="_blank" rel="noopener noreferrer">
               <i class="fa-brands fa-orcid"></i>Orcid
             </a>
             {% endif %}
+
             {% if site.researchgate_username != '' %}
             <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" class="btn btn-default btn-lg"
               target="_blank" rel="noopener noreferrer">
               <i class="fa-brands fa-researchgate"></i>ResearchGate
             </a>
             {% endif %}
+
             {% if site.linkedin_username != '' %}
             <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="btn btn-default btn-lg"
               target="_blank" rel="noopener noreferrer">
@@ -53,7 +56,7 @@
           </div>
         </div>
 
-        <!-- 向下箭头必须在 hero-container 内 -->
+        <!-- 向下箭头 -->
         <a class="section-jump text-center" href="#portfolio">
           <i class="fa fa-angle-down fa-3x"></i>
         </a>
