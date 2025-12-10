@@ -98,7 +98,7 @@ button.btn, input.btn {
 .hero-content {
   position: relative;
   z-index: 2;
-  width: 80%;
+  width: 100%;
 
   @include bp-medium { width: 80%; margin: 0 auto; }
   @include bp-small { width: 90%; margin: 0 auto; }
