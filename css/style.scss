@@ -68,29 +68,35 @@ button.btn, input.btn {
 --------------------------------------------------------------*/
 .hero-container {
   position: relative;
-  background: url('/assets/figures/bkg_phuket.jpg');
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
   min-height: 100vh;
   padding-top: 60px;    /* 上方留白 */
   padding-bottom: 60px; /* 下方留白 */
-  padding-left: 15px;   /* 左部留白 */
-  padding-right: 15px;  /* 右部留白 */
   display: flex;
   flex-direction: column;
   justify-content: center;      
 
+  /* 背景图缩小，左右留白 */
+  background: url('/assets/figures/bkg_phuket.jpg');
+  background-size: auto 100%;
+  background-position: center top;
+  background-repeat: no-repeat;
 
   &::before {
     content: "";
     position: absolute;
-    top: 0; 
-    left: 15px;   /* 遮罩不要覆盖留白 */
-    right: 15px;
+    top: 0; left: 0;   
+    width: 100%;
     height: 100%;
     background: rgba(255, 255, 255, 0.45);
     z-index: 0;
+  }
+
+  /* 响应式：小屏时背景图也适配 */
+  @include bp-small {
+    background-size: auto 100%; 
+  }
+  @include bp-xsmall {
+    background-size: auto 100%; 
   }
 }
 
