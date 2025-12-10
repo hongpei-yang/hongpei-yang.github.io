@@ -77,8 +77,8 @@ button.btn, input.btn {
 
   /* 背景图缩小，左右留白 */
   background: url('/assets/figures/bkg_phuket.jpg');
-  background-size: auto 100%;
-  background-position: center top;
+  background-size: cover;
+  background-position: center center;
   background-repeat: no-repeat;
 
   &::before {
@@ -91,7 +91,7 @@ button.btn, input.btn {
     z-index: 0;
   }
 
-  /* 响应式：小屏时背景图也适配 */
+  /* 响应式适配 */
   @include bp-small {
     background-size: auto 100%; 
   }
