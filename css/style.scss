@@ -113,13 +113,12 @@ button.btn, input.btn {
 --------------------------------------------------------------*/
 .hero-container {
   position: relative;
-  background-color: transparent !important;  /* 确保不被 red 覆盖 */
+  background-color: transparent !important;
   background-image: url('/assets/figures/bkg.jpg') !important;
   background-size: cover;
   background-position: center center;
-
-  @include bp-xsmall { margin: 5em 0 5em 0; }
-  @include bp-small { margin: 5em 0 5em 0; }
+  background-repeat: no-repeat;
+  height: 100vh;
 
   &::before {
     content: "";
