@@ -173,9 +173,9 @@ img {
 
 .hero-buttons button.btn,
 .hero-buttons input.btn {
-  padding: 8px 22px;     /* 桌面端尺寸 */
+  @extend %opensans;       /* 保留字体 */
+  padding: 8px 22px;       /* 桌面端尺寸 */
   font-size: 14px;
-  margin: 0.8em 0.5em;
   border: solid 1px #d5e0e7;
   border-radius: 4px;
   color: #2E4453;
