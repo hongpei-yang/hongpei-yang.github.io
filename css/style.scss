@@ -70,8 +70,10 @@ button.btn, input.btn {
   position: relative;
   background: url('/assets/figures/bkg_phuket.jpg') center/cover no-repeat;
   height: 100vh;
+  max-width: 1200px;
+  margin: 0 auto;
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 60px 15px;
 
   &::before {
     content: "";
@@ -85,15 +87,15 @@ button.btn, input.btn {
 .hero-content {
   position: relative;
   z-index: 2;
-  max-width: 1200px; 
   width: 60%;
-  margin: 0 auto;
-  padding: 0 15px;
   text-align: center;
 
-  @include bp-medium { width: 80%; }
-  @include bp-small { width: 90%; }
+  @include bp-medium { width: 80%; margin: 0 auto; }
+  @include bp-small { width: 90%; margin: 0 auto; }
   @include bp-xsmall { width: 100%; padding: 0 10px; }
+
+  h1 { font-size: 48px; }
+  p { margin: 1.5em 0 3em; }
 }
 
 .hero-buttons {
