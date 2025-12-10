@@ -114,7 +114,9 @@ button.btn, input.btn {
   @include bp-xsmall { width: 100%; padding: 0 10px; }
 
   h1 { font-size: 48px; }
-  p { margin: 1.5em 0 3em; }
+  p { margin: 1.5em 0 3em; 
+      font-size: 1.3rem;   
+      line-height: 1.5; }
 }
 
 .hero-buttons {
@@ -323,8 +325,7 @@ code { padding:1px 5px; }
     margin-top: 0.5em;
 
     a {
-      text-decoration: none;
-      color: #FF7B7B;
+      color: #2E4453;
       &:hover { text-decoration: underline; }
     }
   }
