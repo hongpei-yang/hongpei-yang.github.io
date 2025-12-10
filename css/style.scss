@@ -10,6 +10,8 @@
   2.1 Contact
 3.0 Posts
 4.0 Footer
+5.0 Code Formatting
+6.0 Inner Page Padding
 
 --------------------------------------------------------------*/
 
@@ -252,7 +254,7 @@ button.btn, input.btn {
   }
 }
 /*--------------------------------------------------------------
-5.0 Code Formatting (unchanged)
+5.0 Code Formatting 
 --------------------------------------------------------------*/
 pre, code { 
   color:#262626; 
@@ -262,4 +264,11 @@ pre, code {
 }
 pre { padding:8px 12px; overflow-x:auto; }
 code { padding:1px 5px; }
+
+/*--------------------------------------------------------------
+6.0 Inner Page Padding 
+--------------------------------------------------------------*/
+.inner-page-container {
+  padding-top: 60px; /* 根据 topbar 高度调整 */
+}
 
