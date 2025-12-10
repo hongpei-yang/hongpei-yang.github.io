@@ -6,10 +6,27 @@ permalink: /about
 
 
 ## About me
+<div class="about-row">
+  <!-- 左侧照片 -->
+  <div class="about-photo-col">
+    <img src="/assets/figures/hongpei.png" alt="Hongpei Yang" class="about-photo">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div class="about-text-col">
+    <p>
+      I am Hongpei Yang, a Ph.D. Candidate at Sun Yat-sen University.
+      My main research interests include atmospheric gravity waves across multi-scales,
+      and mesoscale meteorology, with a particular focus on mesoscale convective systems.
+    </p>
+  </div>
+</div>
+
+## About me
 <br>
 I am **Hongpei Yang**, a Ph.D. Candidate at Sun Yat-sen University.<br>
 My main research interests include *atmospheric gravity waves* across multi-scales,<br>
-and *mesoscale meteorology*, with a particular focus on mesoscale covective systems.
+and *mesoscale meteorology*, with a particular focus on mesoscale convective systems.
 
 👉 [**Click to see my CV (PDF)**](assets/files/Hongpei Yang_CV_251112.pdf)
 
