@@ -1,0 +1,190 @@
+---
+---
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+
+1.0 Defaults
+2.0 Home Hero
+  2.1 Contact
+3.0 Posts
+4.0 Footer
+
+--------------------------------------------------------------*/
+
+@import '../_sass/bootstrap';
+@import '../_sass/mixins';
+
+$primary: #0a0a0a;
+$secondary: #FF7B7B;
+
+%opensans { font-family: 'Open Sans', sans-serif; }
+%merriweather { font-family: 'Merriweather', serif; }
+
+/*--------------------------------------------------------------
+1.0 Base Defaults
+--------------------------------------------------------------*/
+@media (min-width: 1200px) {
+  .container { width: 1200px; }
+}
+
+body {
+  background: #e9edf0;
+  @extend %opensans;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @extend %merriweather;
+  font-weight: 700;
+}
+
+p { line-height: 1.8; font-size: 1.2em; }
+img { width: 100%; }
+
+/* Buttons */
+button.btn, input.btn {
+  padding: 10px 24px;
+  margin: 1em 0.5em;
+  border: 1px solid #d5e0e7;
+  border-radius: 4px;
+  color: #2E4453;
+  font-weight: 600;
+  i { padding-right: 0.4em; }
+  &:hover { background:#fff; border-color:#b0c5d2; }
+}
+
+.main {
+  background:#fff;
+  border-left:1px solid #cedfea;
+  border-right:1px solid #cedfea;
+}
+
+/*--------------------------------------------------------------
+2.0 Hero Section
+--------------------------------------------------------------*/
+.hero-container {
+  position: relative;
+  background: url('/assets/figures/bkg_phuket.jpg') center/cover no-repeat;
+  height: 100vh;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.hero-container::before {
+  content: "";
+  position:absolute; inset:0;
+  background: rgba(255,255,255,0.45);
+  z-index:0;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  h1 { font-size: 48px; }
+  p { margin: 1.5em 0 3em; }
+}
+
+/* Buttons inside hero */
+.hero-buttons {
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+  gap:12px;
+  margin-bottom:40px;
+}
+.hero-buttons .btn {
+  padding: 8px 20px;
+  font-size: 14px;
+  display:inline-flex;
+  align-items:center;
+  i { font-size:0.9em; }
+}
+
+/* Arrow under buttons */
+.section-jump {
+  position:absolute;
+  bottom:25px;
+  left:50%;
+  transform:translateX(-50%);
+  color:#fff;
+  font-size:34px;
+  opacity:0.85;
+  cursor:pointer;
+  z-index:10;
+  transition:opacity .3s;
+}
+.section-jump:hover { opacity:1; }
+
+#portfolio { margin-top:-10px; }
+
+/*--------------------------------------------------------------
+2.x Mobile Hero Adjustments
+--------------------------------------------------------------*/
+@media (max-width: 768px) {
+  .hero-container {
+    height: 60vh;
+    background-position: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+  }
+  .hero-content {
+    width: 90%;
+  }
+  .hero-content h1 {
+    font-size: 1.9rem;
+  }
+  .hero-content p {
+    font-size: 1rem;
+    margin: 1.2em 0 2.2em;
+  }
+  .hero-buttons {
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+  .hero-buttons .btn {
+    width: 80%;
+    max-width: 260px;
+    padding: 8px 16px;
+    font-size: 0.9rem;
+  }
+  .section-jump {
+    bottom: 12px;
+    font-size: 28px;
+  }
+}
+
+/*--------------------------------------------------------------
+3.0 Posts
+--------------------------------------------------------------*/
+#portfolio .container {
+  margin-top: 6em;
+}
+.section-title {
+  position: relative;
+  margin-bottom: 1em;
+}
+
+/*--------------------------------------------------------------
+4.0 Footer
+--------------------------------------------------------------*/
+.site-footer {
+  font-size:14px;
+  border-top:1px solid #efefef;
+  padding:1em 0;
+  p { font-size:12px; color:#9eb1bd; margin:0; }
+}
+
+/*--------------------------------------------------------------
+5.0 Code Formatting (unchanged)
+--------------------------------------------------------------*/
+pre, code { color:#262626; font-size:14px; background:#FBFBFB; border:1px solid #E5E5E5; }
+pre { padding:8px 12px; overflow-x:auto; }
+code { padding:1px 5px; }
+
+/* Highlight syntax unchanged for brevity */
