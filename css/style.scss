@@ -112,7 +112,9 @@ button.btn, input.btn {
 	2.0 Home Hero
 --------------------------------------------------------------*/
 .hero-container {
-  background: red;
+  position: relative;
+  background: url('/assets/figures/bkg.jpg') center/cover no-repeat;
+  /* 根据需要改路径，例如 /assets/img/bg.png */
 
   @include bp-xsmall {
     margin: 5em 0 5em 0;
@@ -120,7 +122,19 @@ button.btn, input.btn {
   @include bp-small {
     margin: 5em 0 5em 0;
   }
+
+  /* 添加半透明遮罩 */
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,0.6); /* 白色半透明，可改 */
+    z-index: 1;
+  }
 }
+
 
 /* 让文字浮在遮罩之上 */
 .hero-content {
