@@ -304,13 +304,29 @@ code { padding:1px 5px; }
 
 .about-text-col {
   flex: 1;
-  font-size: 1.2em;
-  line-height: 1.6em;
-  padding-left: 1em; /* 文字与图片之间的空隙 */
+  font-size: 1.0em;   /* 比原先稍微缩小 */
+  line-height: 1.5em;
+  padding-left: 1em;  /* 文字与图片间距 */
 
   @include bp-xsmall {
     padding-left: 0;
     width: 100%;
+    text-align: center;
+  }
+
+  .about-intro {
+    margin-bottom: 1em;
+  }
+
+  .about-cv {
+    font-size: 1.0em;  
+    margin-top: 0.5em;
+
+    a {
+      text-decoration: none;
+      color: #FF7B7B;
+      &:hover { text-decoration: underline; }
+    }
   }
 }
 
