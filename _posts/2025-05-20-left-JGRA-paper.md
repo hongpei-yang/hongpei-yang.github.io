@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'New Paper Out'
 date: 2025-05-20
 categories: new paper
