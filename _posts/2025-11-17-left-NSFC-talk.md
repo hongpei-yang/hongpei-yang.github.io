@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Invited Talk'
 date: 2025-11-17
 categories: talks and meetings
