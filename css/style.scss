@@ -189,6 +189,8 @@ button.btn, input.btn {
 .post-row {
   display: flex;
   align-items: center;
+  margin: 0 auto;    // 居中
+  padding: 0 20px;   // 左右留白，与 hero 对齐
 }
 
 .content-wrap {
