@@ -245,11 +245,10 @@ button.btn, input.btn {
 /*--------------------------------------------------------------
 4.0 Footer
 --------------------------------------------------------------*/
-.footer-inner {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 20px;
+.footer-wrapper {
+  max-width: 1200px;       // 与 hero/post 一致
+  margin: 0 auto;           // 居中
+  padding-left: 20px;       // 左右留白
   padding-right: 20px;
 }
 
