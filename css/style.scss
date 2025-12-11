@@ -190,7 +190,7 @@ button.btn, input.btn {
   display: flex;
   align-items: center;
   margin: 0 auto;    // 居中
-  padding: 0 20px;   // 左右留白，与 hero 对齐
+  padding: 0 15px;   // 左右留白，与 hero 对齐
 }
 
 .content-wrap {
@@ -241,8 +241,8 @@ button.btn, input.btn {
 4.0 Footer
 --------------------------------------------------------------*/
 .footer-inner {
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
 
   @include bp-xsmall {
     padding-left: 10px;
