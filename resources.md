@@ -7,8 +7,8 @@ permalink: /resources
 ## Resources
 <br>
 
-TBA
-Curated resources related to my research area:
+TBA  
+Resources related to my research area:
 
 - Useful tools
 - Recommended papers
