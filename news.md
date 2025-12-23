@@ -12,6 +12,8 @@ sidebar:
 
 ### - In 2025 
 <small>
+**23 Dec. 2025**&nbsp;&nbsp;My first-authored paper on CI with different distance to partent storm was published in <a href=" " target="_blank">JAS</a>.<br>
+**12 Dec. 2025**&nbsp;&nbsp;My first-authored paper on Orographic CI related to upslope Winds and orographic Waves in North China was published in <a href="https://www.iapjournals.ac.cn/aas/article/id/97a8fb7b-c1a6-4d0d-bc9c-eb00a2eed76e" target="_blank">AAS</a>.<br>
 **17 Nov. 2025**&nbsp;&nbsp;Invited to share experience on the NSFC PhD Grant application at the National Graduate Forum on Atmospheric Sciences at SYSU, Zhuhai.<br>
 **7–8 Nov. 2025**&nbsp;&nbsp;Invited to serve as `session chair` and present at Fudan University’s 1st N-S PhD Academic Forum (Department of Atmospheric and Oceanic Sciences); awarded `First Prize` for Oral Presentation.<br>
 **14 Oct. 2025**&nbsp;&nbsp;Participated in a group seminar on waves and bores with Prof. <a href="https://as.nju.edu.cn/c4/55/c11341a771157/page.htm" target="_blank">Hao Fu</a> from Nanjing University.<br>
