@@ -36,8 +36,8 @@ permalink: /resources
 #### Tutorials
   **Software**  
   _Common Linux Commands_ https://www.runoob.com/w3cnote/linux-common-command-2.html  
-  _Install wrf-python on MAC IOS with M chips_ https://github.com/NCAR/wrf-python/issues/199#issuecomment-1949394544  
-  
+  _Install wrf-python on Apple Silicon (M-series)_ https://github.com/NCAR/wrf-python/issues/199#issuecomment-1949394544  
+  _Creating 3D Radar Reflectivity Isosurface using VAPOR_  [Download Guidance](/assets/files/VAPOR_Guidance.pdf)  
   **Lecture**  
   _NCAR MMM Seminars_ https://www.youtube.com/@NCAR_MMM/videos  
   _Turbulence in the Ocean and Atmosphere (MIT)_ https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/pages/lecture-notes/  
@@ -50,4 +50,4 @@ permalink: /resources
 
 <br>
 
-#### Updated: 22 Dec. 2025
+#### Updated: 2 Jan. 2026
