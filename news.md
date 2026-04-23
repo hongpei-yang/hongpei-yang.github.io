@@ -12,9 +12,9 @@ sidebar:
 
 ### - In 2026 
 <small>
-**9 Apr. 2026**Successfully passed the PhD thesis pre-defense.<br>
+**9 Apr. 2026**&nbsp;&nbsp;Successfully passed the PhD thesis pre-defense.<br>
 **28 Mar. 2026**&nbsp;&nbsp;Collaborative paper on the impact of low-level jet on convection (updates to RKW theory) was published in <a href="https://doi.org/10.1175/JAS-D-25-0013.1" target="_blank">JAS</a>.<br>
-**27 Mar. 2026**&nbsp;&nbsp;The Orographic CI paper has been selected as the cover article for <a href="https://www.iapjournals.ac.cn/aas/en/article/2026/5" target="_blank">AAS(2026 Vol. 43 No. 5)</a>! It has also been featured in an <a href="https://mp.weixin.qq.com/s/Sf4JyX33KF26_ag8_C6tPg" target="_blank">official WeChat post</a>.<br>
+**27 Mar. 2026**&nbsp;&nbsp;The Orographic CI paper has been selected as the cover article for <a href="https://www.iapjournals.ac.cn/aas/en/article/2026/5" target="_blank">AAS(2026 Vol. 43 No. 5)</a>! It has also been featured in an <a href="https://mp.weixin.qq.com/s/Sf4JyX33KF26_ag8_C6tPg" target="_blank">official WeChat post (in Chinese)</a>.<br>
 </small>
 
 
@@ -48,5 +48,5 @@ sidebar:
 
 <br>
 
-#### Updated: 30 Dec. 2025
+#### Updated: 23 Apr. 2026
 
