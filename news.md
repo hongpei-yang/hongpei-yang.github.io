@@ -10,10 +10,22 @@ sidebar:
 ## News
 <br>
 
-### - In 2025 
+### - In 2026 
+<small>
+**9 Apr. 2026**Successfully passed the PhD thesis pre-defense.<br>
+**28 Mar. 2026**&nbsp;&nbsp;Collaborative paper on the impact of low-level jet on convection (updates to RKW theory) was published in <a href="https://doi.org/10.1175/JAS-D-25-0013.1" target="_blank">JAS</a>.<br>
+**27 Mar. 2026**&nbsp;&nbsp;The Orographic CI paper has been selected as the cover article for <a href="https://www.iapjournals.ac.cn/aas/en/article/2026/5" target="_blank">AAS(2026 Vol. 43 No. 5)</a>! It has also been featured in an <a href="https://mp.weixin.qq.com/s/Sf4JyX33KF26_ag8_C6tPg" target="_blank">official WeChat post</a>.<br>
+</small>
+
+
+
+
+
+
+### - Big News Before 2026 
 <small>
 **23 Dec. 2025**&nbsp;&nbsp;My first-authored paper on CI with different distance to partent storm was published in <a href="https://doi.org/10.1175/JAS-D-25-0073.1" target="_blank">JAS</a>.<br>
-**12 Dec. 2025**&nbsp;&nbsp;My first-authored paper on Orographic CI related to upslope Winds and orographic Waves in North China was published in <a href="https://www.iapjournals.ac.cn/aas/article/id/97a8fb7b-c1a6-4d0d-bc9c-eb00a2eed76e" target="_blank">AAS</a>.<br>
+**12 Dec. 2025**&nbsp;&nbsp;My first-authored paper on orographic CI related to upslope Winds and orographic Waves in North China was published in <a href="https://www.iapjournals.ac.cn/aas/article/id/97a8fb7b-c1a6-4d0d-bc9c-eb00a2eed76e" target="_blank">AAS</a>.<br>
 **17 Nov. 2025**&nbsp;&nbsp;Invited to share experience on the NSFC PhD Grant application at the National Graduate Forum on Atmospheric Sciences at SYSU, Zhuhai.<br>
 **7–8 Nov. 2025**&nbsp;&nbsp;Invited to serve as `session chair` and present at Fudan University’s 1st N-S PhD Academic Forum (Department of Atmospheric and Oceanic Sciences); awarded `First Prize` for Oral Presentation.<br>
 **14 Oct. 2025**&nbsp;&nbsp;Participated in a group seminar on waves and bores with Prof. <a href="https://as.nju.edu.cn/c4/55/c11341a771157/page.htm" target="_blank">Hao Fu</a> from Nanjing University.<br>
@@ -30,16 +42,7 @@ sidebar:
 **30 May 2025**&nbsp;&nbsp;My first-authored paper on CI events related to Nocturnal LLJ over the Great Plains was published in <a href="https://doi.org/10.1029/2024JD042393" target="_blank">JGR-A</a>.<br>
 **26 Apr.–4 May 2025**&nbsp;&nbsp;Participated in the General Assembly 2025 of the EGU and presented an oral presentation about preline CI events.<br>
 **21 Apr. 2025**&nbsp;&nbsp;My first-authored paper on the formation mechanism of a bow echo event resulted from supercell-squall line merger was published in <a href="https://doi.org/10.1029/2024JD042394" target="_blank">JGR-A</a>.<br>
-</small>
-
-
-
-
-
-
-### - Big News Before 2025 
-TBA
-
+<small>
 
 
 
