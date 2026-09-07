@@ -12,6 +12,10 @@ sidebar:
 
 ### - In 2026 
 <small>
+**18 Jun. 2026**  Received the **Outstanding Doctoral Dissertation Award** of Sun Yat-sen University.<br>
+**18 Jun. 2026**  Received the **Gold Award** in the "Three-Minute Thesis" Postgraduate Competition at Sun Yat-sen University.<br>
+**27 May 2026**  Named an **Outstanding Doctoral Graduate** of Sun Yat-sen University.<br>
+**25 May 2026**  **25 May 2026**  Successfully defended the PhD thesis, <a href="https://pan.quark.cn/s/01032f0f64d1" target="_blank"><i>Generation of Convective Gravity Waves and Their Impacts on Convective Initiation and Development (in Chinese with English Abstract)</i></a>.<br>
 **9 Apr. 2026**&nbsp;&nbsp;Successfully passed the PhD thesis pre-defense.<br>
 **28 Mar. 2026**&nbsp;&nbsp;Collaborative paper on the impact of low-level jet on convection (updates to RKW theory) was published in <a href="https://doi.org/10.1175/JAS-D-25-0013.1" target="_blank">JAS</a>.<br>
 **27 Mar. 2026**&nbsp;&nbsp;The Orographic CI paper has been selected as the cover article for <a href="https://www.iapjournals.ac.cn/aas/en/article/2026/5" target="_blank">AAS(2026 Vol. 43 No. 5)</a>! It has also been featured in an <a href="https://mp.weixin.qq.com/s/Sf4JyX33KF26_ag8_C6tPg" target="_blank">official WeChat post (in Chinese)</a>.<br>
@@ -47,5 +51,5 @@ sidebar:
 
 <br>
 
-#### Updated: 23 Apr. 2026
+#### Updated: 07 Sept. 2026
 
