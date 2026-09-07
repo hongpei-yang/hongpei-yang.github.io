@@ -12,6 +12,8 @@ sidebar:
 
 ### - In 2026 
 <small>
+**10–14 Aug. 2026**&nbsp;&nbsp;Participated in the "Distinguished Lectures on Cloud Precipitation: Observations and Mechanisms" at Peking University, given by Prof. Bjorn Stevens and Dr. Jonathan H. Jiang, and engaged in in-depth scientific discussions with Prof. Zhiyong Meng and Prof. Qiu Yang.<br>
+**27 Jul. 2026**&nbsp;&nbsp;Joined Sun Yat-sen University as a postdoctoral researcher, hosted by Prof. Guixing Chen.<br>
 **18 Jun. 2026**&nbsp;&nbsp;Received the **Outstanding Doctoral Dissertation Award** of Sun Yat-sen University.<br>
 **18 Jun. 2026**&nbsp;&nbsp;Received the **Gold Award** in the "Three-Minute Thesis" Postgraduate Competition at Sun Yat-sen University.<br>
 **27 May 2026**&nbsp;&nbsp;Named an **Outstanding Doctoral Graduate** of Sun Yat-sen University.<br>
