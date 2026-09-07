@@ -14,9 +14,9 @@ sidebar:
 <small>
 **10–14 Aug. 2026**&nbsp;&nbsp;Participated in the "Distinguished Lectures on Cloud Precipitation: Observations and Mechanisms" at Peking University, given by Prof. Bjorn Stevens and Dr. Jonathan H. Jiang, and engaged in in-depth scientific discussions with Prof. Zhiyong Meng and Prof. Qiu Yang.<br>
 **27 Jul. 2026**&nbsp;&nbsp;Joined Sun Yat-sen University as a postdoctoral researcher, hosted by Prof. Guixing Chen.<br>
-**18 Jun. 2026**&nbsp;&nbsp;Received the **Outstanding Doctoral Dissertation Award** of Sun Yat-sen University.<br>
-**18 Jun. 2026**&nbsp;&nbsp;Received the **Gold Award** in the "Three-Minute Thesis" Postgraduate Competition at Sun Yat-sen University.<br>
-**27 May 2026**&nbsp;&nbsp;Named an **Outstanding Doctoral Graduate** of Sun Yat-sen University.<br>
+**18 Jun. 2026**&nbsp;&nbsp;Received the `Outstanding Doctoral Dissertation Award` of Sun Yat-sen University.<br>
+**18 Jun. 2026**&nbsp;&nbsp;Received the `Gold Award` in the "Three-Minute Thesis" Postgraduate Competition at Sun Yat-sen University.<br>
+**27 May 2026**&nbsp;&nbsp;Named an `Outstanding Doctoral Graduate` of Sun Yat-sen University.<br>
 **25 May 2026**&nbsp;&nbsp;Successfully defended the PhD thesis, <a href="https://pan.quark.cn/s/01032f0f64d1" target="_blank"><i>Generation of Convective Gravity Waves and Their Impacts on Convective Initiation and Development (in Chinese with English Abstract)</i></a>.<br>
 **9 Apr. 2026**&nbsp;&nbsp;Successfully passed the PhD thesis pre-defense.<br>
 **28 Mar. 2026**&nbsp;&nbsp;Collaborative paper on the impact of low-level jet on convection (updates to RKW theory) was published in <a href="https://doi.org/10.1175/JAS-D-25-0013.1" target="_blank">JAS</a>.<br>
@@ -35,7 +35,7 @@ sidebar:
 **7–8 Nov. 2025**&nbsp;&nbsp;Invited to serve as `session chair` and present at Fudan University’s 1st N-S PhD Academic Forum (Department of Atmospheric and Oceanic Sciences); awarded `First Prize` for Oral Presentation.<br>
 **14 Oct. 2025**&nbsp;&nbsp;Participated in a group seminar on waves and bores with Prof. <a href="https://as.nju.edu.cn/c4/55/c11341a771157/page.htm" target="_blank">Hao Fu</a> from Nanjing University.<br>
 **26 Oct. 2025**&nbsp;&nbsp;Du Group team building on Qi’ao Island, Zhuhai.<br>
-**08 Oct. 2025**&nbsp;&nbsp;Awarded `President Scholarship`, see <a href="https://atmos.sysu.edu.cn/article/4383" target="_blank">post</a>.<br>
+**08 Oct. 2025**&nbsp;&nbsp;Awarded `President Scholarship` of Sun Yat-sen University, see <a href="https://atmos.sysu.edu.cn/article/4383" target="_blank">post</a>.<br>
 **21 Sept. 2025**&nbsp;&nbsp;Invited to attend the 5th New Cornerstone 50² Forum at SUSTech, Shenzhen.<br>
 **20 Sept. 2025**&nbsp;&nbsp;Du Group Semester Report and Teachers' Day Celebration for Prof. Yu Du.<br>
 **18 Sept. 2025**&nbsp;&nbsp;Awarded `National Scholarship` for PhD students, see <a href="https://atmos.sysu.edu.cn/article/4372" target="_blank">post</a>.<br>
