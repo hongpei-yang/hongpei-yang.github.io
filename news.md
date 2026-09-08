@@ -14,9 +14,9 @@ sidebar:
 <small>
 **10–14 Aug. 2026**&nbsp;&nbsp;Participated in the "Distinguished Lectures on Cloud Precipitation: Observations and Mechanisms" at Peking University, given by Prof. Bjorn Stevens and Dr. Jonathan H. Jiang, and engaged in in-depth scientific discussions with Prof. Zhiyong Meng and Prof. Qiu Yang.<br>
 **27 Jul. 2026**&nbsp;&nbsp;Joined Sun Yat-sen University as a postdoctoral researcher, hosted by Prof. Guixing Chen.<br>
+**21 Jun 2026**&nbsp;&nbsp;Participated in the graduation ceremony and was named an `Outstanding Doctoral Graduate` of Sun Yat-sen University.<br>
 **18 Jun. 2026**&nbsp;&nbsp;Received the `Outstanding Doctoral Dissertation Award` of Sun Yat-sen University.<br>
 **18 Jun. 2026**&nbsp;&nbsp;Received the `Gold Award` in the "Three-Minute Thesis" Postgraduate Competition at Sun Yat-sen University.<br>
-**27 May 2026**&nbsp;&nbsp;Named an `Outstanding Doctoral Graduate` of Sun Yat-sen University.<br>
 **25 May 2026**&nbsp;&nbsp;Successfully defended the PhD thesis, <a href="https://pan.quark.cn/s/01032f0f64d1" target="_blank"><i>Generation of Convective Gravity Waves and Their Impacts on Convective Initiation and Development (in Chinese with English Abstract)</i></a>.<br>
 **9 Apr. 2026**&nbsp;&nbsp;Successfully passed the PhD thesis pre-defense.<br>
 **28 Mar. 2026**&nbsp;&nbsp;Collaborative paper on the impact of low-level jet on convection (updates to RKW theory) was published in <a href="https://doi.org/10.1175/JAS-D-25-0013.1" target="_blank">JAS</a>.<br>
