@@ -67,6 +67,7 @@ _Academic Honors_<br>
 
 <p><strong>President's Scholarship (SYSU)</strong>, Sept. 2025</p>
 
+<br>
 _Presentation Awards_<br>
 <p><strong>Gold Medal</strong>, June 2026</p>
 <p style="margin-left: 2em;"><small>
