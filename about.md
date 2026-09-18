@@ -57,7 +57,7 @@ Thesis: *Evaluation of Simulated Ningaloo Niño/Niña in CMIP6 Models*
 
 ### Honors and Awards
 _Academic Honors_<br>
-<p><strong>Postdoctoral Research Fellowship (SYSU</strong>, Sept. 2026</p>
+<p><strong>Postdoctoral Research Fellowship (SYSU)</strong>, Sept. 2026</p>
 
 <p><strong>Outstanding Doctoral Dissertation Award (SYSU)</strong>, June 2026</p>
 
