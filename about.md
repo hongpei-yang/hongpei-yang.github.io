@@ -22,7 +22,7 @@ permalink: /about
     </p>
 
     <p class="about-cv">
-      👉 <a href="assets/files/Hongpei Yang_CV_251112.pdf" target="_blank"><strong>Click to see my CV (PDF)</strong></a>
+      👉 <a href="assets/files/Hongpei Yang_CV_260831.pdf" target="_blank"><strong>Click to see my CV (PDF)</strong></a>
     </p>
   </div>
 </div>
